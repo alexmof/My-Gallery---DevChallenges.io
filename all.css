@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+
+body {
+    max-width: 960px;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.profile-photo {
+    border-radius: 16px;
+}
+
+.name {
+    font-weight: 600;
+    color: #4E5150;
+}
+
+.locate {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    font-weight: 600;
+    color: #A9A9A9;
+}
+
+.pattern-border {
+    border-radius: 12px;
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #E5E5E5;
+}
+
+.number {
+    color: #4E5150;
+    margin: 0px;
+}
+
+.description {
+    font-weight: 600;
+    color: #BDBDBD;
+    margin-top: 2px;
+}
+
+footer {
+    font-weight: 700;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.table-couch {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bath-cha-plant-lamp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bath-cha-plant {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cha-plant {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer {
+    font-weight: 700;
+    color: #B9BDCF;
+    text-align: center;
+    
+}
+

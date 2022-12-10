@@ -1,0 +1,44 @@
+body {
+    margin-top: 30px;
+}
+
+.top {
+    margin-bottom: 39px;
+}
+
+.name {
+    font-size: 14px;
+}
+
+.locate {
+    font-size: 10px;
+}
+
+.box {
+    width: 78px;
+}
+
+.stats {
+    width: 258px;
+}
+
+.number {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.gallery {
+    gap: 11.72px;
+}
+
+.table-couch {
+    gap: 11.72px
+}
+
+footer {
+    font-size: 14px;
+}
